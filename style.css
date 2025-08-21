@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(235, 144, 98);
+    font-family: "Times New Roman", serif;
+    margin: 20px;
+}
+
+h1 {
+    color: rgb(95, 94, 94);
+    margin: 20px auto;
+    text-align: center;
+    font-size: 60px;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+a {
+    color: rgb(10, 15, 10);
+    font-size: 30px;
+}
+
+.home-link {
+    display: block;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
